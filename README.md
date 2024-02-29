@@ -167,8 +167,99 @@ Por ultimo clique em "Selecionar"
 
 ![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/c3cf053d-bc47-4ceb-87f0-168e9d1c604e)
 
-"Pasta de blobs" deixe em branco e adicione a descrição, depois clique em "proximo..."
+"Pasta de blobs" deixe em branco e adicione a descrição, depois clique em "proximo..."  e aguarde a validação!
 
 ![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/ae445e3a-a8ed-4c70-a563-7309d09c11ae)
 
-![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/9e1816f0-aea8-4968-8013-fb450cfcb3b0)
+Em "Anexar IA" selecione o seu recurso
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/faea6e6a-4c75-4c85-8722-f3d1890b0181)
+
+Em "Adicionar enriquecimentos" configure como na imagem
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/1dbd94c5-a07d-4a5d-ace3-390303febde1)
+
+Selecione as caixinhas como na imagem abaixo
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/79d04918-4dd9-450a-95dc-c4564ac8297a)
+
+Clique em "Salvar os enriquecimentos..." 
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/0d290dc8-a014-4107-b07d-a4488d6c2cc0)
+
+Ao escolher a caixinha "Projeção de imagem" se aparecer o erro acima clique em "Escolher uma conexão existente"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/c7b29866-1bc1-41da-87f9-ec8b5edc9c38)
+
+Selecione o recurso que você criou anteriormente
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/0b5ce9a5-ad3f-4cd8-8d09-461e91a4f581)
+
+Depois selecione "Projeção de blob do Azure: Documento", não altere o nome do container abaixo
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/9b8399a8-8a9d-4833-81c1-597244011048)
+
+Depois clique em "Próximo..." e aguarde a validação
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/9fdcf6a4-d0ab-4274-bc99-f413077294bd)
+
+
+Altere somente o nome do index
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/ea01fb8d-5ad4-45e3-b755-e34065048402)
+
+Para todos os que já vieram selecionados por padrão adicione a caixinha "Filtrável" 
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/056c68c0-e47d-406a-b6a6-1d59f4596da2)
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/90032f33-8fa4-4507-b715-0c43ffb14ffd)
+
+Clique em "Criar Indexador" e aguarde a validação
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/0c0a07fb-f644-4615-a4bc-414c542bf271)
+
+Altere o nome do indexador para "coffee-indexer" e mantenha a configuração da agenda como está
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/1e5e40bd-7264-40ab-b063-9edaf35d7e84)
+
+
+Clique em "Opções Avançadas" e Certifique-se de que a caixinha "Base-64 Encode Keys" esteja selecionada
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/a67f47ea-7b92-4a8d-98bc-f89579c06f88)
+
+Não altere mais nada e clique em "Enviar" e aguarde a notificação da pesquisa
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/8ae9d038-154d-4c87-a671-5f3bcb042810)
+
+Vá ao "Gerenciamento de Pesquisa", depois em "indexadores"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/c50db24f-a000-43d2-8019-e70d4977cf48)
+
+Selecione "coffee-indexer"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/aac58bf7-587e-4516-ac6a-30414eaa5aee)
+
+Volte ao "Overview" e va na aba "Search Explorer"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/73653103-3f01-43da-945b-d13e72917fb8)
+
+Clique no view para ver o JSON
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/01163abf-4084-44e1-a070-29739715abf1)
+
+
+No campo do editor de consultas JSON , copie e cole:
+
+{
+    "search": "*",
+    "count": true
+}
+
+Selecione "Search"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/bef3027a-96f1-4cef-9149-394bb185f67a)
+
+Por fim toda a informação
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/69685f4c-1199-44fa-b672-901f423fcb18)
+
