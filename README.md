@@ -115,3 +115,60 @@ Configure o container como na imagem abaixo e depois clique em "Criar"
 
 Copie este link e abra em uma aba no navegador ----> https://aka.ms/mslearn-coffee-reviews
 
+Clique em "Visão Geral" e depois "Carregar"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/8552b362-5ef1-4b32-9520-96e5f802d532)
+
+Extraia o conteudo do link para uma pasta chamada "avaliações"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/48261812-6b62-4ce0-85a6-9d4aa8165a21)
+
+Suba a pasta de avaliações e selecione "coffee-review"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/60a698b5-b37d-4dea-b1a7-b75522a2cc52)
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/daea2e42-aef3-47fe-98e9-2c4e4c23b76d)
+
+Depois clique em "carregar"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/87dd9228-ec55-4cac-a912-81e3eff7de7c)
+
+Aguarde o carregamento
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/9412e3e3-9ecb-464b-bed4-40ac9f36d949)
+
+## Indexar os documentos
+
+Clique em "Pagina Inicial" e depois clique no seu recurso "Search" ou "busca"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/cdfc8e63-1dcd-4562-ab86-4914b84f5f8c)
+
+Depois clique em "Importar Dados"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/06d5f18e-dc1d-45d2-acd8-c0fb6fdf30b2)
+
+Selecione "Armazenamento de Blob do Azure"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/5882afcb-a5e2-4075-b417-45a847d22ac5)
+
+Preencha os dados como na imagem e vá em "Escolher uma conexão existente"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/b2144b66-0c21-4961-a0fb-a37116725876)
+
+Clique no recurso que você criou anteriormente
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/1599a1c9-1990-4857-8487-ad55cd7e0407)
+
+depois em "coffee-reviews"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/ffc74781-3c50-4ecf-9418-99e1534f901f)
+
+Por ultimo clique em "Selecionar"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/c3cf053d-bc47-4ceb-87f0-168e9d1c604e)
+
+"Pasta de blobs" deixe em branco e adicione a descrição, depois clique em "proximo..."
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/ae445e3a-a8ed-4c70-a563-7309d09c11ae)
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/9e1816f0-aea8-4968-8013-fb450cfcb3b0)
