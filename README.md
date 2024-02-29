@@ -94,3 +94,24 @@ Vá em "Configuração"
 Clique em "Permitir acesso anônimo ao Blob" e salve
 
 ![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/afb7ef43-6d25-4482-b9b4-438ebf9077b3)
+
+"Salvar"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/514bb845-89ed-4bac-ab1d-abd92e8ab6fb)
+
+## Carregar documentos para o armazenamento do Azure
+
+Agora vá para "Containers"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/c8e7884f-ffad-4e54-b1a4-bc83552cb534)
+
+Clique em " + container"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/394fbc79-b5a1-47c1-8c11-98e6863b105a)
+
+Configure o container como na imagem abaixo e depois clique em "Criar"
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/013c047a-7e99-4da7-8a3e-11d126983709)
+
+Copie este link e abra em uma aba no navegador ----> https://aka.ms/mslearn-coffee-reviews
+
