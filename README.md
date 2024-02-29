@@ -263,3 +263,26 @@ Por fim toda a informação
 
 ![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/69685f4c-1199-44fa-b672-901f423fcb18)
 
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/0d6ec29f-f083-4433-9215-4ff238a50c4c)
+
+
+
+## Revise o armazenamento de conhecimento
+
+Retorne a "Storage Accounts" e clique no recurso
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/6a9cd6af-0ecd-49bb-960d-375f92ef06e0)
+
+Selecione qualquer um dos arquivos .jpg
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/ada0142a-1e83-4741-8692-83485d8e8392)
+
+
+Selecione "Editar" para ver as imagens
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/7922335b-fc2f-440d-ae01-d13659989edc)
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/3e84dfd3-acb3-4bc1-9e7c-37f715dde3ea)
+
+![image](https://github.com/pedroheinrich/Microsoft-AI-Search-Index/assets/97209403/e1707922-aa9b-4aef-acf0-51be434d1948)
+
